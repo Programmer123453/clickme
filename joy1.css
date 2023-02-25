@@ -1,0 +1,13 @@
+body{
+    font-family: sans-serif;
+    background-color: #e63946;
+}
+.love{
+    display: flex;
+    justify-content: center;
+
+}
+.photo{
+    height: 80%;
+    width: 30%;
+}
